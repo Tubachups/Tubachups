@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=Tubachups&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
@@ -10,6 +10,7 @@
 ---
 
 ### 👨‍💼 Professional Profile
+
 - 💼 **Role Focus:** Full-stack web development with strong frontend specialization.
 - 🧩 **Development Style:** Clean architecture, maintainable codebases, and user-centered implementation.
 - 📈 **Current Focus:** Advancing modern JavaScript workflows while strengthening backend integration across Python and PHP services.
@@ -27,19 +28,46 @@
 
 ---
 
-### 📂 Project Highlights
+### 📊 GitHub Analytics
 
-#### 🔹 NutriLiz  
-A nutrition-focused web project designed to make health-related interactions more accessible and practical for users.  
-This project reflects my ability to build feature-driven interfaces and support them with structured backend logic.
+<div align="center">
 
-#### 🔹 ReeLiz-Movie  
-A movie-centered web application that emphasizes smooth browsing experience and organized content presentation.  
-Through this project, I strengthened my skills in combining UI design, application flow, and server-side integration.
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Tubachups&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tubachups&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 
-#### 🔹 Kings-PC  
-A platform-style web project built with a modern frontend approach and robust backend support.  
-This work highlights my experience in developing scalable components and maintaining clean, production-ready project structure.
+</div>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Tubachups&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Tubachups&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
+
+</div>
+
+<div align="center">
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tubachups&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
 
 ---
 
@@ -56,4 +84,5 @@ This work highlights my experience in developing scalable components and maintai
     <img src="https://img.shields.io/badge/Email-johnlloydtubachups%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 <p align="right"><i>Open to web development opportunities and technical collaboration.</i></p>
